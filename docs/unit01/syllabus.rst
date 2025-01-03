@@ -33,6 +33,7 @@ Syllabus
 | **Canvas**: https://chaminade.instructure.com/courses/37606
 | **Readthedocs**: https://cs401.readthedocs.io/en/latest/
 | **Slack**: https://cs401-sp25.slack.com/
+|   Join slack here: https://join.slack.com/t/cs401-sp25/shared_invite/zt-2w4ouha2u-w8JFcoDsREl5QWh9QVMjEQ
 | **Github**: https://github.com/andrewsolis/cs401/
 | **Zoom**: https://utexas.zoom.us/j/93208711393?pwd=hkDEAP0qlx7QgESOyXJHyykjnWUnkJ.1
 
