@@ -13,6 +13,7 @@ the concepts and topics discussed.
 
    calendar.rst
    unit01/overview
+   unit02/overview
    
 
 Additional Resources
