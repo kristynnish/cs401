@@ -14,6 +14,7 @@ the concepts and topics discussed.
    calendar.rst
    unit01/overview
    unit02/overview
+   unit03/overview
    
 
 Additional Resources
